@@ -1,6 +1,6 @@
 # 0x00. C - Hello, World
 ## General
-###An introductory project on:
+### An introductory project on:
 
 * What is main
 * How to print text using printf, puts and putchar
@@ -13,8 +13,8 @@
 * Requirements:
 Ubuntu 14.04 LTS gcc 4.8.4
 
-##Tasks:
-###Mandatory Tasks:
+## Tasks:
+### Mandatory Tasks:
 * 0-preprocessor - a bash script that runs a C file, saved in the variable $CFILE, through the preprocessor and saves the result into another file, named c
 
 * 1-compiler - a bash script that compiles a C file, saved in the variable $CFILE, but does not link.
