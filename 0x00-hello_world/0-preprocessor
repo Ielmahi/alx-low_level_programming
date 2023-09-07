@@ -1,6 +1,2 @@
 #!/bin/bash
-
-CFILE="your_c_file.c"
-OUTPUT_FILE="c"
-
-cpp -o $OUTPUT_FILE $CFILE
+gcc -E c > $CFILE
