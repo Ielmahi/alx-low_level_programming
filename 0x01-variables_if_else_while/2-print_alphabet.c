@@ -7,7 +7,7 @@
  * Return: Always 0 (Success)
 */
 
-void main(void)
+int main(void)
 {
 	char alphabet = 'a';
 	while(alphabet <= 'z')
