@@ -1,11 +1,21 @@
-#include <unistd.h>
+#include "main.h"
+
 /**
- * main - Entry Block
-  *Description: prints _putchar followed by a new line
- * Return: 0
+ * main - Entry point
+ *
+ * Description: prints _putcahr using putcahr prototype
+ *
+ * Return: Always 0 (Success)
  */
+
 int main(void)
 {
-	write(1, "_putchar\n", 9);
+	char str[] = "_putchar";
+	int st;
+
+	for (st = 0; st < 8; st++)
+		_putchar(str[st]);
+	_putcahr('\n');
+
 	return (0);
 }
