@@ -4,14 +4,22 @@
  *
  * @size: The size of the square.
  */
+
 void print_square(int size)
 {
-	int lenght, width;
+	int hgt, wid;
 
-	for (lenght = 1; lenght <= size; lenght++)
+	if (size > 0)
 	{
-		for (width = 1; width <= size; width++)
-			_putchar('#');
-		_putchar('\n');
+		for (hgt = 0; hgt < size; hgt++)
+		{
+			for (wid = 0; wid < size; wid++)
+				_putchar('#');
+
+			if (hgt == size - 1)
+				continue;
+			_putchar('\n');
+		}
 	}
+	_putchar('\n');
 }
