@@ -5,7 +5,7 @@ Debugging is the process of finding and fixing (resolving) errors in software th
 - What is debugging
 - What are some methods of debugging manually
 - How to read the error messages
-## Tasks:
+### Tasks:
 
 - Multiple mains - Create a file named 0-main.c. This file must test that the function positive_or_negative() gives the correct output when given a case of 0.
 
