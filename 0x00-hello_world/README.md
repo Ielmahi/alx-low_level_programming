@@ -1,5 +1,7 @@
 # 0x00. C - Hello, World
+
 ## General
+
 ### An introductory project on:
 
 * What is main
@@ -10,11 +12,11 @@
 * What is the official C coding style and how to check your code with betty-style
 * How to find the right header to include in your source code when using a standard library function
 * sHow does the main function influence the return value of the program
-* Requirements:
-Ubuntu 14.04 LTS gcc 4.8.4
 
 ## Tasks:
+
 ### Mandatory Tasks:
+
 * 0-preprocessor - a bash script that runs a C file, saved in the variable $CFILE, through the preprocessor and saves the result into another file, named c
 
 * 1-compiler - a bash script that compiles a C file, saved in the variable $CFILE, but does not link.
@@ -31,7 +33,7 @@ The output file will be named the same as the C file, but with the extension .s 
 
 * 6-size.c - a C program that prints the size of various types on the computer it is compiled and run on.
 
-### Advanced Tasks:
+## Advanced Tasks:
 
 * 100-intel - a bash script that generates the assembly code (Intel syntax) of a C file, saved in the variable $CFILE.
 
