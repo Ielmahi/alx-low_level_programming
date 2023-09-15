@@ -1,5 +1,7 @@
 # 0x04-more_functions_nested_loops
+
 ## General:
+
 An introductory project on:
 
 - Nested loops and how to use them
@@ -8,7 +10,7 @@ An introductory project on:
 - Scope of variables
 - Header files and how to to use them with #include
 
-## Tasks:
+### Tasks:
 Mandatory
 - 0-isupper.c - function that checks for uppercase character.
 
@@ -32,7 +34,8 @@ Mandatory
 
 - 10-print_triangle.c - function that prints a triangle of size n, followed by a new line.
 
-### Advanced
+## Advanced
+
 - 100-prime_factor.c - finds and prints the largest prime factor of the number 612852475143, followed by a new line.
 
 - 101-print_number.c - function that prints an integer.
