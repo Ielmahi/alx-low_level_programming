@@ -1,6 +1,7 @@
 # 0x01-variables_if_else_while
 
 ## General:
+
 An introductory project on:
 
 - Arithmetic operators and how to use them
@@ -17,8 +18,10 @@ An introductory project on:
 - What is the ASCII character set
 - The purpose of the gcc flags -m32 and -m64
 
-## Tasks:
-### Mandatory Tasks:
+### Tasks:
+
+#### Mandatory Tasks:
+
 * 0-positive_or_negative.c: Assign a random number to the variable n each time it is executed.
 
 Print whether the number stored in the variable n is positive or negative.
@@ -44,6 +47,7 @@ The output of the program should be: - The string Last digit of, followed by - n
 * 9-print_comb.c - prints all single-digit numbers, separated by a comma, using putchar, without using a variable of type char.
 
 ### Advanced Tasks:
+
 * 100-print_comb3.c - prints all possible different combinations of two digits, separated by a comma, using putchar, without using a variable of type char.
 
 * 101-print_comb4.c - prints all possible different combinations of three digits, separated by a comma, using putchar, without using a variable of type char.
