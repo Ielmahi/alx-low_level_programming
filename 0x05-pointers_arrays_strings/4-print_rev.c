@@ -12,11 +12,11 @@ void print_rev(char *s)
 	{
 		lenght++;
 	}
-	i--;
+	lenght--;
 
 	while (lenght >= 0)
 	{
 		_putchar(s[lenght]);
-		i--;
+		lenght--;
 	}
 }
