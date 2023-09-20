@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * leet - encodes a string into 1337
- * @j: input string.
+ * @c: input string.
  * Return: the pointer to dest.
  */
 char *leet(char *c)
