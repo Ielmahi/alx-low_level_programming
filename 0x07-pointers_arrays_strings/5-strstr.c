@@ -5,28 +5,27 @@
  * needle in the string haystack.
  * @haystack: entire string.
  * @needle: substring.
- * return: pointer to the beginning of located substring or
+ * Return: pointer to the beginning of located substring or
  * NULL if the substring is not found.
 */
-
 char *_strstr(char *haystack, char *needle)
 {
-	char *i;
-	char *j;
+	char *h;
+	char *n;
 
 	while (*haystack != '\0')
 	{
-		i = haystack;
-		j = needle;
+		h = haystack;
+		n = needle;
 
-		while (*haystack != '\0' && *j != '\0' && *haystack == *j)
+		while (*haystack != '\0' && *n != '\0' && *haystack == *n)
 		{
 			haystack++;
-			j++;
+			n++;
 		}
-		if (!*j)
-			return (i);
-		haystack = i + 1;
+		if (!*n)
+			return (h);
+		haystack = h + 1;
 	}
 	return (0);
 }
