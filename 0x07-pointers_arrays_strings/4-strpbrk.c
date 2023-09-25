@@ -1,4 +1,4 @@
-#include "mian.h"
+#include "main.h"
 /**
  * _strpbrk - searches a string for any of a set of bytes.
  * @s: first string.
@@ -19,7 +19,7 @@ char *_strpbrk(char *s, char *accept)
 		{
 			if (accept[j] == s[i])
 			{
-				p = &s[itr];
+				p = &s[i];
 				return (p);
 			}
 			j++;
