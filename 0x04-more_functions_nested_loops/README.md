@@ -10,6 +10,13 @@ An introductory project on:
 - Scope of variables
 - Header files and how to to use them with #include
 
+## Requirements:
+
+- Ubuntu 20.04 LTS
+- gcc -Wall -Werror -Wextra -pedantic -std=gnu89
+- No standard library functions
+- Allowed to use putchar
+
 ### Tasks:
 Mandatory
 - 0-isupper.c - function that checks for uppercase character.
