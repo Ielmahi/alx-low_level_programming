@@ -10,8 +10,8 @@ An introductory project on:
 
 ## Requirements :
 
-- Ubuntu 20.04 LTS
-- gcc -Wall -Werror -Wextra -pedantic -std=gnu89
+- Ubuntu 20.04 LTS .
+- gcc -Wall -Werror -Wextra -pedantic -std=gnu89 .
 
 ## tasks:
 
