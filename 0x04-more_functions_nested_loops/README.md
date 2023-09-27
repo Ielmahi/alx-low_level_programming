@@ -12,10 +12,10 @@ An introductory project on:
 
 ## Requirements:
 
-- Ubuntu 20.04 LTS
-- gcc -Wall -Werror -Wextra -pedantic -std=gnu89
-- No standard library functions
-- Allowed to use putchar
+- Ubuntu 20.04 LTS .
+- gcc -Wall -Werror -Wextra -pedantic -std=gnu89 .
+- No standard library functions .
+- Allowed to use putchar .
 
 ### Tasks:
 Mandatory
