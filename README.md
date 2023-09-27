@@ -35,5 +35,5 @@ This repository contains projects on the C programming language. The projects co
 
 ## Compilation Process
 <p align="center">
-  <img src="https://imagizer.imageshack.com/v2/320x240q70/923/AguNyY.png" />
+  <img src="https://imagizer.imageshack.com/img924/3631/BZJ4g8.png" />
 </p>
