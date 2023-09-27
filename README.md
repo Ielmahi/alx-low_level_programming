@@ -18,6 +18,8 @@ C programming is an excellent language to learn to program for beginners.
 - Projects
 - Acknowledgement
 
+
+
 ## About
 This repository contains projects on the C programming language. The projects cover:
 
@@ -29,14 +31,19 @@ This repository contains projects on the C programming language. The projects co
 - Pre-processor, macros, header files, pointers, double pointers, function pointers, pointer arithmetic
 - Arrays, multidimensional arrays, structures
 
+
+
 ## Requirements
 - Ubuntu 20.04 LTS
 - gcc (-Wall -Werror -Wextra -pedantic -std=gnu89)
+
 
 ## Compilation Process
 <p align="center">
   <img src="https://imagizer.imageshack.com/img924/3631/BZJ4g8.png" />
 </p>
+
+
 
 ## Projects
 - <a href="0x00-hello_world/">0x00-hello_world</a>
@@ -51,8 +58,17 @@ This repository contains projects on the C programming language. The projects co
 <a href=""></a>
 <a href=""></a>
 
+
+
+
+
 ### support:tada:
 If you like how i present and document my work  do me a favor of giving a **Star** :sparkles: to my repos  |&&| a **Follow**  :busts_in_silhouette:
 
+
 ## Author
 - **Ilias elmahi** - [https://github.com/Ielmahi]
+
+
+
+![img](https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png)
