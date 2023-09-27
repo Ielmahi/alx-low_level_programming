@@ -37,3 +37,22 @@ This repository contains projects on the C programming language. The projects co
 <p align="center">
   <img src="https://imagizer.imageshack.com/img924/3631/BZJ4g8.png" />
 </p>
+
+## Projects
+- <a href="0x00-hello_world/">0x00-hello_world</a>
+- <a href="0x01-variables_if_else_while">0x01-variables_if_else_while</a>
+- <a href="0x02-functions_nested_loops">0x02-functions_nested_loops</a>
+- <a href="0x03-debugging">0x03-debugging</a>
+- <a href="0x04-more_functions_nested_loops">0x04-more_functions_nested_loops</a>
+- <a href="0x05-pointers_arrays_strings">0x05-pointers_arrays_strings</a>
+- <a href="0x06-pointers_arrays_strings">0x06-pointers_arrays_strings</a>
+- <a href="0x07-pointers_arrays_strings">0x07-pointers_arrays_strings</a>
+<a href=""></a>
+<a href=""></a>
+<a href=""></a>
+
+### support:tada:
+If you like how i present and document my work  do me a favor of giving a **Star** :sparkles: to my repos  |&&| a **Follow**  :busts_in_silhouette:
+
+## Author
+- **Ilias elmahi** - [https://github.com/Ielmahi]
