@@ -8,6 +8,11 @@ An introductory project on:
 - How to manipulate strings
 - Scope of variables
 
+## Requirements :
+
+- Ubuntu 20.04 LTS
+- gcc -Wall -Werror -Wextra -pedantic -std=gnu89
+
 ## tasks:
 
 ### Mandatory:
