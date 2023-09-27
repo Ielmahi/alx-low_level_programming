@@ -8,8 +8,8 @@ Learning Objectives :
 
 ## Technologies :
 
-- C files are compiled using gcc -Wall -Werror -Wextra -pedantic -std=gnu89
-- Tested on Ubuntu 20.04 LTS
+- C files are compiled using gcc -Wall -Werror -Wextra -pedantic -std=gnu89 .
+- Tested on Ubuntu 20.04 LTS .
 
 ## Tasks:
 
