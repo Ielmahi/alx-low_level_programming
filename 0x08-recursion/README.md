@@ -6,11 +6,13 @@
 - Compiler: gcc -Wall -Werror -Wextra -pedantic -std=gnu89
 - Style guidelines: Betty style
 
+
 ## Concepts to be learned:
 - What is recursion
 - How to implement recursion
 - In what situations you should implement recursion
 - In what situations you shouldn’t implement recursion
+
 
 ## Tasks:
 
