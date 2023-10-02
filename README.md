@@ -31,7 +31,8 @@ This repository contains projects on the C programming language. The projects co
 - Functions
 - Pre-processor, macros, header files, pointers, double pointers, function pointers, pointer arithmetic
 - Arrays, multidimensional arrays, structures
-
+- Static and dynamic libraries
+- Program arguments
 
 
 ## Requirements
@@ -55,6 +56,10 @@ This repository contains projects on the C programming language. The projects co
 - <a href="0x05-pointers_arrays_strings">0x05-pointers_arrays_strings</a>
 - <a href="0x06-pointers_arrays_strings">0x06-pointers_arrays_strings</a>
 - <a href="0x07-pointers_arrays_strings">0x07-pointers_arrays_strings</a>
+- <a href="0x08-recursion">0x08-recursion</a>
+- <a href="0x09-static_libraries">0x09-static_libraries</a>
+<a href=""></a>
+- <a href="0x0A-argc_argv">0x0A-argc_argv</a>
 <a href=""></a>
 <a href=""></a>
 <a href=""></a>
