@@ -13,7 +13,9 @@ int main(int argc, char *argv[])
 	int i, add = 0;
 
 	if (argc == 1)
+	{
 		printf("0\n");
+	}
 	else if (argc < 0 || argc > 9)
 	{
 		printf("Error\n");
