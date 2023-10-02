@@ -1,5 +1,6 @@
 # 0x0A. C - Argc, argv
 
+
 ## Resource
 
 - [Arguments to main](https://publications.gbdirect.co.uk//c_book/chapter10/arguments_to_main.html)
