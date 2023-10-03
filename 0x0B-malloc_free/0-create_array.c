@@ -10,6 +10,7 @@
  *
  * Return: address of the memory or NULL if it fails
  */
+
 char *create_array(unsigned int size, char c)
 {
 	char *arr;
@@ -22,5 +23,6 @@ char *create_array(unsigned int size, char c)
 		return (NULL);
 	for (i = 0; i < size; i++)
 		arr[i] = c;
+
 	return (arr);
 }
