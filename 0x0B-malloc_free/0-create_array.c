@@ -8,7 +8,7 @@
  * @c: array of chars
  * @size: the size of the memory to print
  *
- * Return: address of the memory to print
+ * Return: address of the memory or NULL if it fails
  */
 char *create_array(unsigned int size, char c)
 {
@@ -16,10 +16,10 @@ char *create_array(unsigned int size, char c)
 	unsigned int i;
 
 	if (size == 0)
-		return NULL;
+		return (NULL);
 	arr = malloc (sizeof(char) * size);
 	if (arr == NULL)
-		return NULL;
+		return (NULL);
 	for (i = 0; i < size; i++)
 		arr[i] = c;
 	return (arr);
