@@ -102,7 +102,7 @@ void init(char *str, int l)
  * main - multiply two numbers
  * @argc: number of arguments
  * @argv: argument vector
- * author : ilias elmahi
+ *
  * Return: zero, or exit status of 98 if failure
  */
 int main(int argc, char *argv[])
