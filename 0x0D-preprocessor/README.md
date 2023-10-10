@@ -10,9 +10,9 @@ General
 
 ## Requirements
 
-- All files are created and compiled on Ubuntu 14.04.4 LTS on gcc 4.8.4 using the flags -Wall -Werror -Wextra and -pedantic
+- All files are created and compiled on Ubuntu 20.04 LTS on gcc using the flags -Wall -Werror -Wextra and -pedantic
 - All files are linted for syntax and style with [Betty](https://github.com/holbertonschool/Betty)
-
+`
 ## Tasks
 
 ### [0. Object-like Macro](./0-object_like_macro.h)
