@@ -1,6 +1,6 @@
 # 0x0F. C - Function pointers
 
-## Learning Objectives
+### Learning Objectives
 
 General
 
