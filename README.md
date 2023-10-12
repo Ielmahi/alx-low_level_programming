@@ -63,6 +63,10 @@ This repository contains projects on the C programming language. The projects co
 - <a href="0x0A-argc_argv">0x0A-argc_argv</a>
 - <a href="0x0B-malloc_free">0x0B-malloc_free</a>
 - <a href="0x0C-more_malloc_free">0x0C-more_malloc_free</a>
+- <a href="0x0D-preprocessor">0x0D-preprocessor</a>
+- <a href="0x0E-structures_typedef">0x0E-structures_typedef</a>
+- <a href="0x0F-function_pointers">0x0F-function_pointers</a>
+- <a href="0x10-variadic_functions">0x10-variadic_functions</a>
 <a href=""></a>
 <a href=""></a>
 <a href=""></a>
