@@ -1,6 +1,6 @@
 # 0x0E. C - Structures, typedef
 
-## Learning Objectives
+### Learning Objectives
 
 General
 
