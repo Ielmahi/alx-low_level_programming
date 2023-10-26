@@ -1,5 +1,7 @@
 # 0x14. C - Bit manipulation 
 
+
+
 - Below are some notes on `~`, `>>` and `<<` bitwise operators.
 
 - NOT operator `~`
