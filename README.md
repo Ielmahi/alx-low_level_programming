@@ -32,6 +32,8 @@ This repository contains projects on the C programming language. The projects co
 - Static and dynamic libraries
 - Program arguments
 - Dynamic allocation
+- Virtual memory, heap, stack
+- Binary operations
 
 
 ## Requirements
@@ -65,6 +67,9 @@ This repository contains projects on the C programming language. The projects co
 - <a href="0x0E-structures_typedef">0x0E-structures_typedef</a>
 - <a href="0x0F-function_pointers">0x0F-function_pointers</a>
 - <a href="0x10-variadic_functions">0x10-variadic_functions</a>
+- <a href="0x12-singly_linked_lists">0x12-singly_linked_lists</a>
+- <a href="0x13-more_singly_linked_lists">0x13-more_singly_linked_lists</a>
+- <a href="0x14-bit_manipulation">0x14-bit_manipulation</a>
 <a href=""></a>
 <a href=""></a>
 <a href=""></a>
