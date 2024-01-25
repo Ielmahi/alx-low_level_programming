@@ -70,6 +70,8 @@ This repository contains projects on the C programming language. The projects co
 - <a href="0x12-singly_linked_lists">0x12-singly_linked_lists</a>
 - <a href="0x13-more_singly_linked_lists">0x13-more_singly_linked_lists</a>
 - <a href="0x14-bit_manipulation">0x14-bit_manipulation</a>
+- <a href="0x15-file_io">0x15-file_io</a>
+- <a href="0x17-doubly_linked_lists">0x17-doubly_linked_lists</a>
 <a href=""></a>
 <a href=""></a>
 <a href=""></a>
